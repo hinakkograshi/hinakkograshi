@@ -14,4 +14,3 @@ jobs:
         with:
           SHARE_ID: "hinakkograshi"
           LANG: "en"
-          UPDATE_TIME: "false"
