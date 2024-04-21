@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--LAPRAS-->
-<a href="https://lapras.com/public/hinakkograshi" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.49&b=2.85&i=3.23&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>
+<a href="https://lapras.com/public/hinakkograshi" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.46&b=3.36&i=3.28&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>
 
 <!--
 **hinakkograshi/hinakkograshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
