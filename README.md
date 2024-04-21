@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![hinakko's github stats](https://github-readme-stats.vercel.app/api?username=hinakko&show_icons=true)](https://github.com/hinakkograshi "hinakko's github stats")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hinakko)](https://github.com/hinakkograshi "Top Langs")
+
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/hinakkograshi" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.46&b=3.36&i=3.28&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>
 <!--END_SECTION:lapras-card-->
