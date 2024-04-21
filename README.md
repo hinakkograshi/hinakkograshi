@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 [![Twitter](https://img.shields.io/twitter/follow/the_hinakkograshi?style=social)](https://twitter.com/the_hinakkograshi "Twitter")
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hinakko/posts.svg)](http://qiita.com/hinakko "My Qiita posts")
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hinakko/contributions.svg)](http://qiita.com/hinakko "My Qiita contributions")
@@ -12,6 +13,12 @@
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/hinakkograshi" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.46&b=3.36&i=3.28&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>
 <!--END_SECTION:lapras-card-->
+
+## Links
+- [X(Twitter)](https://twitter.com/hinakkograshi)  
+- [Qiita](https://qiita.com/hinakko)  
+- [note](https://note.com/hinakkograshi)
+- [はてなブログ](https://blog.hatena.ne.jp/hinakkograshi/hinakkograshi.hatenablog.com/)  
 
 <!--
 **hinakkograshi/hinakkograshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
