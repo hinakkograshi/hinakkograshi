@@ -11,8 +11,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=hinakkograshi)](https://github.com/hinakkograshi "trophy")
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/hinakkograshi" target="_blank" rel="noopener noreferrer"><img alt="hinakkograshiのLAPRASでのスコアは次の通りです: エンジニアリング: 3.46 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 3.3 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.46&b=3.36&i=3.3&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 5/2/2024, 1:00:04 AM</p>
+<p ><a href="https://lapras.com/public/hinakkograshi" target="_blank" rel="noopener noreferrer"><img alt="hinakkograshiのLAPRASでのスコアは次の通りです: エンジニアリング: 3.47 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 3.32 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.47&b=3.36&i=3.32&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 5/3/2024, 1:03:14 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## Links
