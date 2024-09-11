@@ -25,7 +25,8 @@ Last Updated on 9/11/2024, 1:12:31 AM</p>
 - [X(Twitter)](https://twitter.com/hinakkograshi)  
 - [Qiita](https://qiita.com/hinakko)  
 - [note](https://note.com/hinakkograshi)
-- [はてなブログ](https://hinakkograshi.hatenablog.com/)  
+- [はてなブログ](https://hinakkograshi.hatenablog.com/)
+- [connpass](https://connpass.com/user/hinakko/)
 
 <!--
 **hinakkograshi/hinakkograshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
