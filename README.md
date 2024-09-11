@@ -15,6 +15,12 @@
 Last Updated on 9/11/2024, 1:12:31 AM</p>
 <!--END_SECTION:lapras-card-->
 
+## Hackathon
+- 2024/2/10~2/11 [QiitaHackathon](https://qiita.com/official-campaigns/hackathon/2024-first)予選参加 [発表](https://x.com/chomado/status/1756581966894289317?s=20)
+- 2024/6/15~6/30 [MeltingHack Sprint#2 "Card Game"](https://lu.ma/8ejyefqh)参加　[Demo Video](https://www.youtube.com/watch?v=psBKO-Zsgs0)
+
+  受賞:[Grand Winner、Audience Award、審査員賞受賞](https://x.com/hinakkograshi/status/1807729132580794492)　
+
 ## Links
 - [X(Twitter)](https://twitter.com/hinakkograshi)  
 - [Qiita](https://qiita.com/hinakko)  
