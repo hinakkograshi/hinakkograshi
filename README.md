@@ -14,6 +14,9 @@
 Last Updated on 9/21/2024, 1:12:54 AM</p>
 <!--END_SECTION:lapras-card-->
 
+## Self Introduction
+[<img width="500" alt="3f2266c1cd637403f1c122c197846d27" src="https://github.com/user-attachments/assets/72ecfb88-5e34-4574-a859-39dac2b1de42">](https://speakerdeck.com/hinakko/zi-ji-shao-jie-suraido)
+
 ## Hackathon
 - 2024/2/10~2/11 [QiitaHackathon](https://qiita.com/official-campaigns/hackathon/2024-first)予選参加 [発表](https://x.com/chomado/status/1756581966894289317?s=20)
 - 2024/6/15~6/30 [MeltingHack Sprint#2 "Card Game"](https://lu.ma/8ejyefqh)参加　[Demo Video](https://www.youtube.com/watch?v=psBKO-Zsgs0)
@@ -26,6 +29,3 @@ Last Updated on 9/21/2024, 1:12:54 AM</p>
 - [note](https://note.com/hinakkograshi)
 - [はてなブログ](https://hinakkograshi.hatenablog.com/)
 - [connpass](https://connpass.com/user/hinakko/)
-  
-## Self Introduction
-[<img width="500" alt="3f2266c1cd637403f1c122c197846d27" src="https://github.com/user-attachments/assets/72ecfb88-5e34-4574-a859-39dac2b1de42">](https://speakerdeck.com/hinakko/zi-ji-shao-jie-suraido)
