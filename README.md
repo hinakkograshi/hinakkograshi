@@ -28,4 +28,4 @@ Last Updated on 9/21/2024, 1:12:54 AM</p>
 - [connpass](https://connpass.com/user/hinakko/)
   
 ## Self Introduction
-[<img width="500" alt="3f2266c1cd637403f1c122c197846d27" src="https://github.com/user-attachments/assets/72ecfb88-5e34-4574-a859-39dac2b1de42">](https://docs.google.com/presentation/d/11gApjgJ6Uw_3agLOYVLCj0kKapUs1iVaygRbMpo9kbk/edit#slide=id.p)
+[<img width="500" alt="3f2266c1cd637403f1c122c197846d27" src="https://github.com/user-attachments/assets/72ecfb88-5e34-4574-a859-39dac2b1de42">](https://speakerdeck.com/hinakko/zi-ji-shao-jie-suraido)
