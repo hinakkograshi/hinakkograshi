@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 [![Twitter](https://img.shields.io/twitter/follow/the_hinakkograshi?style=social)](https://twitter.com/the_hinakkograshi "Twitter")
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hinakko/posts.svg)](http://qiita.com/hinakko "My Qiita posts")
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hinakko/contributions.svg)](http://qiita.com/hinakko "My Qiita contributions")
@@ -27,18 +26,6 @@ Last Updated on 9/21/2024, 1:12:54 AM</p>
 - [note](https://note.com/hinakkograshi)
 - [はてなブログ](https://hinakkograshi.hatenablog.com/)
 - [connpass](https://connpass.com/user/hinakko/)
-
-<!--
-**hinakkograshi/hinakkograshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+## Self Introduction
+[<img width="500" alt="3f2266c1cd637403f1c122c197846d27" src="https://github.com/user-attachments/assets/72ecfb88-5e34-4574-a859-39dac2b1de42">](https://docs.google.com/presentation/d/11gApjgJ6Uw_3agLOYVLCj0kKapUs1iVaygRbMpo9kbk/edit#slide=id.p)
