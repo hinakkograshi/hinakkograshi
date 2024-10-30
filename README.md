@@ -17,6 +17,14 @@ Last Updated on 10/30/2024, 1:17:31 AM</p>
 ## Self Introduction
 [<img width="500" alt="3f2266c1cd637403f1c122c197846d27" src="https://github.com/user-attachments/assets/72ecfb88-5e34-4574-a859-39dac2b1de42">](https://speakerdeck.com/hinakko/zi-ji-shao-jie-suraido)
 
+## Presentation
+- 【徳島】第24回 カンファレンス動画鑑賞会: [try!Swift Tokyo 2024 参加報告 LT](https://speakerdeck.com/hinakko/try-swift-tokyo-chu-can-jia-bao-gao-lt)
+- 神山.swift: [言語や職種の壁を超えて アプリ開発を楽しむ方法](https://speakerdeck.com/hinakko/yan-yu-yazhi-zhong-nobi-wochao-ete-apurikai-fa-wole-simufang-fa)
+
+## Intern
+- 2024/2/17~2/29 株式会社メルカリ [Build@Mercari 2024](https://careers.mercari.com/mercan/articles/40098/)(Golang) サーバサイド開発の基礎
+- 2024/8/25 株式会社サイバーエージェント [CYCOMPE iOS](https://www.cyberagent.co.jp/careers/special/students/tech_cycompe/)(Swift) モバイル開発。アプリのパフォーマンスを改善。
+
 ## Hackathon
 - 2024/2/10~2/11 [QiitaHackathon](https://qiita.com/official-campaigns/hackathon/2024-first)予選参加 [発表](https://x.com/chomado/status/1756581966894289317?s=20)
 - 2024/6/15~6/30 [MeltingHack Sprint#2 "Card Game"](https://lu.ma/8ejyefqh)参加　[Demo Video](https://www.youtube.com/watch?v=psBKO-Zsgs0)
