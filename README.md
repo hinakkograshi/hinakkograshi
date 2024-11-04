@@ -14,9 +14,6 @@
 Last Updated on 11/4/2024, 1:18:34 AM</p>
 <!--END_SECTION:lapras-card-->
 
-## Self Introduction
-[<img width="500" alt="3f2266c1cd637403f1c122c197846d27" src="https://github.com/user-attachments/assets/72ecfb88-5e34-4574-a859-39dac2b1de42">](https://speakerdeck.com/hinakko/zi-ji-shao-jie-suraido)
-
 ## Presentation
 - 【徳島】第24回 カンファレンス動画鑑賞会: [try!Swift Tokyo 2024 参加報告 LT](https://speakerdeck.com/hinakko/try-swift-tokyo-chu-can-jia-bao-gao-lt)
 - 神山.swift: [言語や職種の壁を超えて アプリ開発を楽しむ方法](https://speakerdeck.com/hinakko/yan-yu-yazhi-zhong-nobi-wochao-ete-apurikai-fa-wole-simufang-fa)
@@ -37,3 +34,6 @@ Last Updated on 11/4/2024, 1:18:34 AM</p>
 - [note](https://note.com/hinakkograshi)
 - [はてなブログ](https://hinakkograshi.hatenablog.com/)
 - [connpass](https://connpass.com/user/hinakko/)
+
+## Self Introduction
+[<img width="500" alt="3f2266c1cd637403f1c122c197846d27" src="https://github.com/user-attachments/assets/72ecfb88-5e34-4574-a859-39dac2b1de42">](https://speakerdeck.com/hinakko/zi-ji-shao-jie-suraido)
