@@ -34,6 +34,3 @@ Last Updated on 12/6/2025, 1:26:15 AM</p>
 - [note](https://note.com/hinakkograshi)
 - [はてなブログ](https://hinakkograshi.hatenablog.com/)
 - [connpass](https://connpass.com/user/hinakko/)
-
-## Self Introduction
-[<img width="500" alt="3f2266c1cd637403f1c122c197846d27" src="https://github.com/user-attachments/assets/72ecfb88-5e34-4574-a859-39dac2b1de42">](https://speakerdeck.com/hinakko/zi-ji-shao-jie-suraido)
