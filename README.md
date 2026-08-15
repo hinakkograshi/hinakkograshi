@@ -10,8 +10,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=hinakkograshi)](https://github.com/hinakkograshi "trophy")
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/hinakkograshi" target="_blank" rel="noopener noreferrer"><img alt="hinakkograshiのLAPRASでのスコアは次の通りです: エンジニアリング: 3.71 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.72 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.71&b=3.43&i=3.72&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 8/14/2026, 1:53:45 AM</p>
+<p ><a href="https://lapras.com/public/hinakkograshi" target="_blank" rel="noopener noreferrer"><img alt="hinakkograshiのLAPRASでのスコアは次の通りです: エンジニアリング: 3.71 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.73 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.71&b=3.43&i=3.73&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 8/15/2026, 1:11:24 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## Presentation
